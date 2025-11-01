@@ -5,11 +5,4 @@
       "tcp/127.0.0.1:7447"
     ]
   },
-  transport: {
-    link: {
-      tx: {
-        batching: false,
-      }
-    }
-  },
 }
